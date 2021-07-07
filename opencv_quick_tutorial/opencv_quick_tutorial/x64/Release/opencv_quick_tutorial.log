@@ -1,0 +1,7 @@
+﻿  quickdemo.cpp
+  test440.cpp
+  Generating code
+  All 269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  opencv_quick_tutorial.vcxproj -> F:\vcworkspaces\opencv_quick_tutorial\x64\Release\opencv_quick_tutorial.exe
+  opencv_quick_tutorial.vcxproj -> F:\vcworkspaces\opencv_quick_tutorial\x64\Release\opencv_quick_tutorial.pdb (Full PDB)
